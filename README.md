@@ -23,8 +23,6 @@
 
 **Sample input**
    
-   #+NAME: sample-input
-   #+BEGIN_EXAMPLE
    3
    ---
    -m-
@@ -33,7 +31,6 @@
 
 **Sample output**
    
-   #+BEGIN_EXAMPLE
    DOWN
    LEFT
    #+END_EXAMPLE
