@@ -9,7 +9,6 @@
    the grid. This is followed by an NxN grid. Each cell is denoted by ‘-‘
    (ascii value: 45). The bot position is denoted by ‘m’ and the princess
    position is denoted by ‘p’.
-
    The top left of the grid is indexed at (0,0) and the bottom right is
    indexed at (N-1,N-1)
 **Output format**
