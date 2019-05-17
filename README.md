@@ -23,15 +23,15 @@
 
 **Sample input**
    
-  1. 3
-  1.---
-  1.-m-
+  1.  3
+  1. ---
+  1. -m-
   1. p--
    
 **Sample output**
    
- 1. DOWN
- 1. LEFT
+ DOWN
+ LEFT
    
  
  **SOLUTION**
