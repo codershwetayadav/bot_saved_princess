@@ -23,10 +23,10 @@
 
 **Sample input**
    
-  1.  3
-  1. ---
-  1. -m-
-  1. p--
+   *3
+   *---
+   *-m-
+   *p--
    
 **Sample output**
    
