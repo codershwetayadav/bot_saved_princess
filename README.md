@@ -30,7 +30,7 @@
    
 **Sample output**
    
- DOWN
+ DOWN\
  LEFT
    
  
