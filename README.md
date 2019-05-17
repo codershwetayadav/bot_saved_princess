@@ -33,7 +33,7 @@
    
    DOWN
    LEFT
-   #+END_EXAMPLE
+   
  
  **SOLUTION**
    
